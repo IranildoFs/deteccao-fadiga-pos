@@ -3,7 +3,7 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   // Nome do repositório no GitHub (necessário para o GitHub Pages)
-  base: '/deteccao-fadiga/',
+  base: '/deteccao-fadiga-pos/',
   plugins: [react()],
   server: {
     host: true,
